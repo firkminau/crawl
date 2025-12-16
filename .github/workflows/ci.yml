@@ -13,6 +13,6 @@ jobs:
     steps:
       - run: uname -a && dpkg --print-architecture
       - name: checkout
-        uses: actions/checkout@v5
+        uses: actions/checkout@v4
       - name: Build source packages
         run: python crawl-ref/source/directn.cc
