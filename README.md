@@ -1,4 +1,3 @@
-[![Build Status](https://github.com/crawl/crawl/workflows/Build/badge.svg)](https://github.com/crawl/crawl/actions/)
 
 # Dungeon Crawl Stone Soup
 
