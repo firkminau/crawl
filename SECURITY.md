@@ -1,4 +1,3 @@
-# Security Policy for DCSS
 
 Last updated Jan 2022.
 
