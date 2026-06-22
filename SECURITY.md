@@ -1,4 +1,3 @@
-Last updated Jan 2022.
 
 ## Supported Versions
 
